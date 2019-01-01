@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="no-js oldie" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-P2F7VJP');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!--- basic page needs
+   ================================================== -->
+    <meta charset="utf-8">
+    <title>Visitor Entry & Apartment Security System - TrueVisitor</title>
+    <meta name="title" content="Visitor Entry & Apartment Security System - True Visitor">
+    <meta name="description" content="App primarily deals with Visitor Tracking and Staff Attendance, Perfect for Commercial buildings, Housing Society & Apartment to solve security problems. Say NO to Register Entry. CheckIn guests at your Event or Exhibiton using TrueVisitor!">
+    <meta name="keywords" content="dnos truevisitor secure safe visitor vms pune event exhibition royal experience digital india lunkad realty real estate property cctv video door phone paper based register intercom paperless eco-friendly cloud realtime sync truecaller tushar shrishrimal">
+    <meta name="author" content="TrueVisitor">
+    <meta name="p:domain_verify" content="ab960ccb1e1d4730906ebb6bd4f50a8e"/>
+
+
+
+    <!-- mobile specific metas
+   ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+   ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- script
+   ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
+
+    <!-- favicons
+	================================================== -->
+    <link rel="shortcut icon" href="logo.jpg" type="image/x-icon">
+    <link rel="icon" href="logo.jpg" type="image/x-icon">
+
+</head>
+
+<body id="top">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2F7VJP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <!-- header 
+   ================================================== -->
+    <header id="header" class="row">
+
+        <div class="header-logo">
+            <a href="index.html">TrueVisitor</a>
+            <!--  <span style="color:white"> TrueVisitor</span> -->
+        </div>
+
+        <nav id="header-nav-wrap">
+            <ul class="header-main-nav">
+                <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
+                <li><a class="smoothscroll" href="#about" title="about">About</a></li>
+                <li><a class="smoothscroll" href="#features" title="features">Features</a></li>
+                <li><a class="smoothscroll" href="#events" title="events">Events</a></li>
+                <li><a class="smoothscroll" href="#videos" title="videos">Videos</a></li>
+                <li><a class="smoothscroll" href="#download" title="download">Download</a></li>
+            </ul>
+
+            <a href="https://medium.com/@truevisitor2017" title="blog" class="button button-primary cta" target="_blank"> Our Blog </a>
+        </nav>
+
+        <a class="header-menu-toggle" href="#"><span>Menu</span></a>
+
+    </header>
+    <!-- /header -->
+
+
+    <!-- home
+   ================================================== -->
+    <section id="home" data-parallax="scroll">
+        <!--  <section id="home" data-parallax="scroll" data-image-src="images/secure.jpg" data-natural-width=3000 data-natural-height=2000>  -->
+
+        <div class="overlay"></div>
+        <div class="home-content">
+
+            <div class="row contents">
+                <div class="home-content-left">
+
+                    <h2 id="t1">
+                    </h2>
+
+                    <h1 id="t2">
+
+                    </h1>
+
+                    <div class="buttons" data-aos="fade-up">
+                        <a href="#download" class="smoothscroll button stroke">
+                            <span class="icon-circle-down" aria-hidden="true"></span>
+                            Download App
+                        </a>
+                        <a href="#videos" class="smoothscroll button stroke">
+                           <span class="icon-play" aria-hidden="true"></span>
+                            Watch Videos
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="home-image-right">
+                    <img src="images/TrueVisitor.png" alt="Apartment Security & Event CheckIn App" srcset="images/TrueVisitor.png 1x, images/TrueVisitor.png 2x" data-aos="fade-up">
+                </div>
+            </div>
+
+        </div>
+        <!-- end home-content -->
+
+        <ul class="home-social-list">
+            <li>
+                <a href="https://www.facebook.com/truevisitorapp/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/company/13255012/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/truevisitor/" target="_blank"><i class="fa fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://plus.google.com/u/1/112631134762974693905" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+            </li>
+        </ul>
+        <!-- end home-social-list -->
+
+        <div class="home-scrolldown">
+            <a href="#about" class="scroll-icon smoothscroll">
+                <span>Scroll Down</span>
+                <i class="icon-arrow-right" aria-hidden="true"></i>
+            </a>
+        </div>
+
+    </section>
+    <!-- end home -->
+
+
+    <!-- about
+    ================================================== -->
+    <section id="about">
+
+        <div id="about-intro" class="row about-intro">
+
+            <div class="col-four">
+                <h1 class="intro-header" data-aos="fade-up">About Our App</h1>
+            </div>
+            <div class="col-eight">
+                <p class="lead" data-aos="fade-up">
+                    TrueVisitor is a cutting-edge security software solution for commercial offices and residential apartments. It is an easy-to-use
+                    mobile application which makes entering visitor information a breeze. <br/> <br/>                    It's packed with lots of cool features, to ensure a great experience for your premises. Hosts of the
+                    facilities will be provided notifications whenever they have a new visitor. Visitors are verified at
+                    the entrance of the establishment.<br/> <br/> We are revolutionizing visitor check-in into apartments
+                    and lobby's with TrueVisitor! It is a unique 3 in 1 solution which combines features of Video Door Phone,
+                    Intercom/CCTV, and traditional Visitor Register into one integrated software product.
+                </p>
+            </div>
+
+        </div>
+
+
+
+        <div id="features" class="row about-how">
+
+            <h1 class="intro-header" data-aos="fade-up">TrueVisitor Features</h1>
+
+            <div class="row about-features">
+
+                <div class="features-list block-1-3 block-m-1-2 block-mob-full group">
+
+                    <div class="bgrid feature" data-aos="fade-up">
+
+                        <span class="icon"><i class="icon-chat"></i></span>
+
+                        <div class="service-content">
+
+                            <h3>SMS notifications</h3>
+
+                            <p> You can now receive SMS notifications regarding your visitors and guests. So that, you'll be aware
+                                of the person, who is coming for your visit. You will get SMS Notification every time when
+                                a visitor is coming to visit you.
+
+                            </p>
+
+                        </div>
+
+                    </div>
+                    <!--//bgrid-->
+
+                    <div class="bgrid feature" data-aos="fade-up">
+
+                        <span class="icon"><i class="icon-camera"></i></span>
+
+                        <div class="service-content">
+                            <h3>Intercom/CCTV</h3>
+
+                            <p> We provide you the features of Intercom/CCTV and Video Doorphone in our app, so you don't need
+                                to use these devices separately. It will save your money, and the time needed for installing
+                                these devices. In addition, it will increase your home security.
+                            </p>
+
+
+                        </div>
+
+                    </div>
+                    <!--//bgrid -->
+
+                    <div class="bgrid feature" data-aos="fade-up">
+
+                        <span class="icon"><i class="icon-file"></i></span>
+
+                        <div class="service-content">
+                            <h3> Visitor Entry Log </h3>
+
+                            <p>Say goodbye to the old way of using manual registers, at security gates of apartment complexes!
+                                We provide you Digital Log, where information is stored accurately and safely. It's easy
+                                to register and track Visitors.
+                            </p>
+
+                        </div>
+
+                    </div>
+                    <!--//bgrid -->
+
+                    <div class="bgrid feature" data-aos="fade-up">
+
+                        <span class="icon"><i class="icon-mobile"></i></span>
+
+                        <div class="service-content">
+                            <h3>Mobile Number Verification</h3>
+
+                            <p>It is the most amazing feature provided by TrueVisitor. It verifies visitor's mobile number. OTP
+                                is sent automatically to visitor's mobile number, so that no one can make false entries.
+                            </p>
+
+                        </div>
+
+                    </div>
+                    <!-- //bgrid -->
+
+                    <div class="bgrid feature" data-aos="fade-up">
+
+                        <span class="icon"><i class="icon-cloud"></i></span>
+
+                        <div class="service-content">
+                            <h3>Secure & Cloud Based</h3>
+
+                            <p>We provide you with cloud-based security, so your data won't be lost. App automatically syncs
+                                check-in/check-out details to the cloud. You can quickly search for previous visitor records.
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--//bgrid-->
+
+                    <div class="bgrid feature" data-aos="fade-up">
+
+                        <span class="icon"><i class="icon-smile"></i></span>
+
+                        <div class="service-content">
+                            <h3>Simple & Efficient</h3>
+
+                            <p>TrueVisitor app is designed in a way, which is very easy to learn and use for apartment,
+                                villa-complex security personnel. It's quick and hassle-free.
+                            </p>
+
+                        </div>
+
+                    </div>
+                    <!-- //bgrid -->
+
+                </div>
+                <!--//end features-list-->
+
+            </div>
+            <!-- end about-features -->
+
+
+
+    </section>
+    <!-- end features -->
+
+    <section id="events">
+        <div id="about-intro" class="row about-intro">
+            <div class="col-four">
+                <h1 class="intro-header" data-aos="fade-up">Events</h1>
+            </div>
+            <div class="col-eight">
+                <p class="lead" data-aos="fade-up">
+                    Planning an Event or an Exhibition? Give your Visitors a Royal Welcome with TrueVisitor!
+                    <br/>
+                    <br/> Check-in is the first thing that your guests experience! Say goodbye to paper-based guest lists. The
+			  TrueVisitor Event App allows your organization to quickly and easily manage attendee check-in at your 			  events.
+
+                    <br/>
+                    <br/> Save time and prevent duplicate work by leveraging events and registrations already
+			  existing in your TrueVisitor system! Check in attendees using multiple devices at
+			  the same time!
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+    <!-- end events -->
+
+    <section id="videos">
+        <div class="row pricing-content">
+
+            <h1 class="intro-header" data-aos="fade-up">Videos</h1>
+
+            <div class="row about-features">
+
+                <div class="features-list block-1-3 block-m-1-2 block-mob-full group">
+
+                    <div class="bgrid feature aos-init aos-animate" data-aos="fade-up">
+                        <a href="https://www.youtube.com/embed/Dd4To4Jd5hc" data-lity>
+                            <img src="images/video3.png" alt="Apartment Security & Event Check in App!">
+                        </a>
+                        <p> This is the problem, that we are trying to solve! </p>
+                    </div>
+                    <!-- //bgrid -->
+
+                    <div class="bgrid feature aos-init aos-animate" data-aos="fade-up">
+                        <a href="https://www.youtube.com/embed/HH-uefn8z7M" data-lity>
+                            <img src="images/video1.png" alt="Introduction to Residential & Commercial Security Application!">
+                        </a>
+                        <p> Introduction to TrueVisitor Application!</p>
+
+                    </div>
+                    <!--//bgrid-->
+
+                    <div class="bgrid feature aos-init aos-animate" data-aos="fade-up">
+                        <a href="https://www.youtube.com/embed/HhHni9mjgwo" data-lity>
+                            <img src="images/video2.png" alt="Guest List App and Event Check In App!">
+                        </a>
+                        <p> Introduction to TrueVisitor Application for Events!</p>
+                    </div>
+                    <!--//bgrid-->
+
+                </div>
+                <!--//end features-list-->
+
+            </div>
+            <!-- end about-features -->
+
+
+
+        </div>
+        <!-- end pricing-content -->
+    </section>
+
+
+
+    <!-- pricing deleted on 27Sept2017-->
+
+
+    <!-- Testimonials Section deleted on 27Sept2017 -->
+
+
+    <!-- download
+    ================================================== -->
+    <section id="download">
+
+        <div class="row">
+            <div class="col-full">
+                <h1 class="intro-header" data-aos="fade-up">Download Our App Today!</h1>
+
+                <p class="lead" data-aos="fade-up">
+                    TrueVisitor is an unique Software Product, that is built with cutting-edge technology. We store your data securely in
+                    cloud, and thus ensure the privacy and secrecy of your data. <br/> <br/> Our team
+                    consists of folks who have worked for over a decade in software industry and worked for fortune 500 companies
+                    like Apple, eBay, Symantec, IBM in Silicon Valley, USA. We have helped several companies by translating
+                    their vision into a technology product/mobile app.
+
+                </p>
+
+                <ul class="download-badges">
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSefHJPz4wek-yJ4xBCfuKRASNmmy4IAuYJxd3Hvd7MDJU0h-w/viewform" target="_blank"
+                            title="" class="badge-googleplay" data-aos="fade-up">Play Store</a></li>
+                </ul>
+
+            </div>
+        </div>
+
+    </section>
+    <!-- end download -->
+
+
+    <!-- footer
+    ================================================== -->
+    <footer id="footer">
+
+        <div class="footer-main">
+            <div class="row">
+
+                <div class="col-three md-1-3 tab-full footer-info">
+
+                    <!--<div class="footer-logo"></div>-->
+                    <h4>TrueVisitor</h4>
+
+                    <p>
+                        TrueVisitor is built with cutting-edge technology and we store your data securely on cloud, thus
+                        ensuring the privacy and security of your data.
+                    </p>
+
+
+                </div>
+                <!-- end footer-info -->
+
+                <div class="col-three md-1-3 tab-1-2 mob-full footer-contact">
+
+                    <h4>Contact</h4>
+
+                    <p>
+                        <b>Corporate Office</b><br/> 
+			Business Square, Andheri-East <br>Mumbai-400 093<br>
+			Daily Needs Trade Centre,<br> Pune-411 043.
+				
+                    </p>
+
+		    <!--
+
+		  <h4>QR Code</h4>
+
+			    <img src="https://chart.googleapis.com/chart?cht=qr&chl=12345&chs=120x120&chld=L|0"
+				 class="qr-code img-thumbnail img-responsive">
+	
+		    <div class="form-group">
+
+			<input type="number" class="form-control" id="content" placeholder="10 Digit Mobile No.">
+
+		    </div>
+		    <div class="form-group"> 
+
+			<button type="button" class="btn" id="generate">Generate</button>
+
+		    </div>
+		   -->
+		
+
+                </div>
+
+
+                <div class="col-two md-1-3 tab-1-2 mob-full footer-site-links">
+
+                    <h4>Site Links</h4>
+
+                    <ul class="list-links">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#download">Download</a></li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSefHJPz4wek-yJ4xBCfuKRASNmmy4IAuYJxd3Hvd7MDJU0h-w/viewform" target="_blank">Interested?</a></li>
+                    </ul>
+
+                </div>
+                <!-- end footer-site-links -->
+
+                <div class="col-four md-1-2 tab-full footer-subscribe">
+
+                    <h4>Get In Touch</h4>
+
+                    <p>Leading residential and commercial premises are securing their entry gates with TrueVisitor. 
+			<br>tushar@true-visitor.com
+                        <br> Phone: 9403187621
+
+                    </p>
+
+                    <ul class="footer-social-list">
+                        <li>
+                            <a href="https://www.facebook.com/truevisitorapp/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/13255012/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/truevisitor/" target="_blank"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://plus.google.com/u/1/112631134762974693905" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/truevisitorapp" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </li>
+
+                    </ul>
+
+                </div>
+                <!-- end footer-subscribe -->
+
+
+
+
+
+                <!-- end footer-contact -->
+
+
+
+
+
+            </div>
+            <!-- /row -->
+        </div>
+        <!-- end footer-main -->
+
+        <div class="footer-bottom">
+
+            <div class="row">
+
+                <div class="col-twelve">
+                    <div class="copyright">
+                        <span>© Copyright TrueVisitor 2017.</span>
+                        <span>Designed by <a href="http://dnos.in" target="_blank">DNOS</a></span>
+                    </div>
+
+                    <div id="go-top">
+                        <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon-arrow-up"></i></a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- end footer-bottom -->
+
+        </div>
+
+    </footer>
+
+    <div id="preloader">
+        <div id="loader"></div>
+    </div>
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script type="text/javascript">
+        var text1 = ["Welcome to True Visitor!!", "Planning an Event or Exhibition?"];
+        var text2 = ["Secure Your Premises with TrueVisitor", "Give your Visitors a Royal Welcome with TrueVisitor!"];
+        var images = ["secure.jpg", "e12.jpg"];
+
+        $(function () {
+            var i = 0;
+            $("#home").css("background-image", "url(images/" + images[i] + ")");
+            $("#t1").text(text1[i]);
+            $("#t2").text(text2[i]);
+
+            setInterval(function () {
+                i++;
+                if (i == images.length) {
+                    i = 0;
+                }
+                $("#home").fadeOut("slow", function () {
+                    $(this).css("background-image", "url(images/" + images[i] + ")");
+                    $("#t1").text(text1[i]);
+                    $("#t2").text(text2[i]);
+                    $(this).fadeIn("slow");
+
+                });
+
+            }, 6000);
+        });
+    </script>
+
+    <script type="text/javascript">
+
+
+function htmlEncode (value){
+  return $('<div/>').text(value).html();
+}
+
+$(function() {
+  $("#generate").click(function() {
+    $(".qr-code").attr("src", "https://chart.googleapis.com/chart?cht=qr&chl=" + htmlEncode($("#content").val()) + "&chs=160x160&chld=L|0");
+  });
+});
+
+
+    </script>
+
+
+</body>
+
+</html>
